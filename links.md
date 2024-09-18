@@ -17,7 +17,8 @@ permalink: LINKS/
 
 * [Regular Expressions Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) --- I refer to this when using regex (e.g. with grep). Its parent site (Cheatography) is also helpful for other tool cheat sheets.
 <br>
+<br>
+#### REV: Wed 18 Sep 2024 20:00
 <hr>
-REV: Wed 18 Sep 2024 8:00
 
 
