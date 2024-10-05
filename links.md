@@ -16,6 +16,14 @@ permalink: LINKS/
 * [Fireship (Youtube Channel)](https://www.youtube.com/@Fireship) --- Quick and witty tech related news and explanations. Useful for picking up general GNU/UNIX knowledge by exposure.
 
 * [Regular Expressions Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) --- I refer to this when using regex (e.g. with grep). Its parent site (Cheatography) is also helpful for other tool cheat sheets.
+
+* [Disk Mounting Tutorial](https://www.linode.com/docs/guides/mount-file-system-on-linux/) --- Simple tutorial on how to mount disks in UNIX based systems. Also explains the use of the `fstab` file.
+
+* [Basic C++ Tutorial](https://www.learncpp.com/) --- Extensive C++ course. Helped me in the Quiz and preparation for the Midterm exam.
+
+* [Booting Linux at low RAM](https://www.youtube.com/watch?v=obRacKML3vA) --- Interesting Youtube video tied to the "How Low Can You Go" Assignment. Explains the flow step-by-step and the RAM breaking point for a kernel panic.
+
+* [Linux Memory Explained](https://linux-audit.com/understanding-memory-information-on-linux-systems/) --- Gives a full run down on how memory is handled in UNIX/GNU systems. Also explains the kernel's role in this.
 <br>
 <br>
 #### REV: Wed 18 Sep 2024 20:00
