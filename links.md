@@ -24,6 +24,12 @@ permalink: LINKS/
 * [Booting Linux at low RAM](https://www.youtube.com/watch?v=obRacKML3vA) --- Interesting Youtube video tied to the "How Low Can You Go" Assignment. Explains the flow step-by-step and the RAM breaking point for a kernel panic.
 
 * [Linux Memory Explained](https://linux-audit.com/understanding-memory-information-on-linux-systems/) --- Gives a full run down on how memory is handled in UNIX/GNU systems. Also explains the kernel's role in this.
+
+* [Understanding Fork in Unix](https://www.geeksforgeeks.org/fork-system-call/) — Explains the `fork()` system call, which is essential for process creation in Unix/Linux systems. It covers how memory is duplicated in child processes and common use cases of `fork()`.
+
+* [How Fork() Works in Unix/Linux](https://www.javatpoint.com/fork-in-c) — This guide provides a comprehensive explanation of how the `fork()` system call works, including memory handling and process duplication. It also discusses how the child and parent processes interact post-fork.
+
+
 <br>
 <br>
 #### REV: Wed 18 Sep 2024 20:00
