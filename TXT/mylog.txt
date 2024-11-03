@@ -26,3 +26,7 @@ ZCZC W06 100 L02 Classroom related
 ZCZC W06 400 L09 Assignment in general
 ZCZC W06 300 L09 Assignment in general
 ZCZC W06 30 L03 Github related
+ZCZC W07 100 L02 Classroom related
+ZCZC W07 500 L09 Assignment in general
+ZCZC W07 100 L09 Assignment in general
+ZCZC W07 20 L03 Github related

@@ -29,10 +29,13 @@ permalink: LINKS/
 
 * [How Fork() Works in Unix/Linux](https://www.javatpoint.com/fork-in-c) — This guide provides a comprehensive explanation of how the `fork()` system call works, including memory handling and process duplication. It also discusses how the child and parent processes interact post-fork.
 
+* [Mutex and Semaphore in Thread Synchronization](https://www.geeksforgeeks.org/mutex-vs-semaphore/) — Provides an overview of mutexes and semaphores, discussing their roles in thread synchronization and how they help prevent race conditions in concurrent programming.
 
+* [Thread Synchronization Techniques](https://www.tutorialspoint.com/operating_system/os_process_synchronization.htm) — Explains different synchronization mechanisms in operating systems, including mutex locks, semaphores, and critical sections, highlighting their importance in maintaining data consistency.
 <br>
 <br>
-#### REV: Wed 18 Sep 2024 20:00
+#### REV: Sun 3 Nov 2024 16:00
 <hr>
+
 
 
