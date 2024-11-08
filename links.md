@@ -32,9 +32,14 @@ permalink: LINKS/
 * [Mutex and Semaphore in Thread Synchronization](https://www.geeksforgeeks.org/mutex-vs-semaphore/) — Provides an overview of mutexes and semaphores, discussing their roles in thread synchronization and how they help prevent race conditions in concurrent programming.
 
 * [Thread Synchronization Techniques](https://www.tutorialspoint.com/operating_system/os_process_synchronization.htm) — Explains different synchronization mechanisms in operating systems, including mutex locks, semaphores, and critical sections, highlighting their importance in maintaining data consistency.
+
+* [Linux From Scratch](http://www.linuxfromscratch.org/) — A detailed guide for building your own Linux system from the ground up, explaining how to set up and configure each component of the Linux OS.
+
+* [Building Linux from Scratch: A Guide](https://www.tldp.org/LDP/lfs/) — Another comprehensive guide to help you build your own Linux system, providing step-by-step instructions and explanations for each part of the process.
+
 <br>
 <br>
-#### REV: Sun 3 Nov 2024 16:00
+#### REV: Fri 8 Nov 2024 09:00
 <hr>
 
 
