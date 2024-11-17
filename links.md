@@ -37,6 +37,9 @@ permalink: LINKS/
 
 * [Building Linux from Scratch: A Guide](https://www.tldp.org/LDP/lfs/) — Another comprehensive guide to help you build your own Linux system, providing step-by-step instructions and explanations for each part of the process.
 
+* [Kernotex Linux From Scratch](https://www.youtube.com/watch?v=rPVqLIqt_8A&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=6) - A useful guide to work alongside the official Linux from Scratch book. Does some things slightly differently.
+
+* [LFS packages](https://www.linuxfromscratch.org/lfs/view/development/chapter03/packages.html) List of all LFS packages. Useful for keeping track of what should or shouldn't be in LFS folders.
 <br>
 <br>
 #### REV: Fri 8 Nov 2024 09:00
