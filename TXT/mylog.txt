@@ -35,3 +35,5 @@ ZCZC W08 510 L09 Assignment in general
 ZCZC W08 80 L09 Assignment in general
 ZCZC W09 L09 500 Assignment in general
 ZCZC W09 L09 200 Assignment in general
+ZCZC W10 L09 500 Assignment in general
+ZCZC W10 L09 200 Assignment in general

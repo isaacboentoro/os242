@@ -40,6 +40,10 @@ permalink: LINKS/
 * [Kernotex Linux From Scratch](https://www.youtube.com/watch?v=rPVqLIqt_8A&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=6) - A useful guide to work alongside the official Linux from Scratch book. Does some things slightly differently.
 
 * [LFS packages](https://www.linuxfromscratch.org/lfs/view/development/chapter03/packages.html) List of all LFS packages. Useful for keeping track of what should or shouldn't be in LFS folders.
+
+* [the best rock album of all time](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=bcf948ab548449d6) - No, I will not elaborate.
+
+* [the next chapter of LFS](https://www.linuxfromscratch.org/lfs/view/12.2/chapter09/chapter09.html) - Incase you want to continue after the course is finished!
 <br>
 <br>
 #### REV: Fri 8 Nov 2024 09:00
